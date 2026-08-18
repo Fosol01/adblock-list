@@ -1,14 +1,8 @@
 [Adblock Plus 2.0]
-! Title: Latvian List
-! Homepage: https://github.com/Latvian-List/adblock-latvian
-! Expires: 4 days
-! Version: 202605140759
-! Last modified: 2026-05-14 07:59 UTC
-! Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
-!
-! Lūdzu paziņojiet par nebloķētām reklāmām vai problēmām vienā no šiem veidiem:
-! * GitHub issues: https://github.com/Latvian-List/adblock-latvian/issues
-! * uz e-pastu: latvian-list@googlegroups.com
-! * forumā: https://forums.lanik.us/viewforum.php?f=99
+! Title: Fosols personal list
+! Homepage: https://github.com/Fosol01/adblock-list
+! Expires: 1 days
+! Version: 20260818100726
+! Last modified: 2026-08-18 07:07 UTC
 
 ||cdn.marketer.lv/*
