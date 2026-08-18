@@ -1,1 +1,7 @@
+! Title: Fosol01 Adblock List
+! Homepage: https://github.com/Fosol01/adblock-list
+! Description: Personal Latvian ad blocking rules
+! Version: 1
+! Expires: 1 day
+
 ||cdn.marketer.lv/*
